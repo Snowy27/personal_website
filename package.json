@@ -1,0 +1,10 @@
+{
+  "name": "node",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Node.js Hello world app on docker",
+  "dependencies": {
+    "hapi": "^16.0.1",
+    "inert": "^4.0.3"
+  }
+}
